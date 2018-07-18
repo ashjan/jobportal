@@ -1,0 +1,37 @@
+#message-box {
+	WIDTH: 80%
+}
+#message-box TEXTAREA {
+	FONT-SIZE: 1.2em; WIDTH: 100%; COLOR: #333333; FONT-FAMILY: "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif
+}
+.inputbox {
+	BORDER-RIGHT: #c0c0c0 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #c0c0c0 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #c0c0c0 1px solid; CURSOR: text; COLOR: #333333; PADDING-TOP: 2px; BORDER-BOTTOM: #c0c0c0 1px solid; BACKGROUND-COLOR: #ffffff
+}
+
+INPUT.inputbox {
+	WIDTH: 85%
+}
+INPUT.medium {
+	WIDTH: 50%
+}
+INPUT.narrow {
+	WIDTH: 25%
+}
+INPUT.tiny {
+	WIDTH: 125px
+}
+TEXTAREA.inputbox {
+	WIDTH: 85%
+}
+INPUT.button2 {
+	FONT-SIZE: 1em
+}
+
+
+
+
+
+
+
+
+

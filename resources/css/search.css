@@ -1,0 +1,1700 @@
+@charset "utf-8";
+html { padding:0; margin:0; }
+a { text-decoration:none; }
+a:hover { text-decoration:underline; }
+.clr { clear: both; font-size; 0; overflow: hidden; height: 0; }
+/* main */
+.main_jadii {  position: absolute; left: 0; right: 0; margin-left: auto; margin-right: auto; width: 1366px; }
+.emp_drp {
+    background: none repeat scroll 0 0 #137a63;
+    list-style: outside none none;
+    margin-left: 455px;
+    padding-right: 28px;
+    position: absolute;
+    z-index: 200;
+    display: none;
+}
+.emp_drp a {
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+}
+#Shape1 {
+    background: none repeat scroll 0 0 #f1f1ec;
+    height: 1790px;
+    left: -1px;
+    position: absolute;
+    top: -2px;
+    width: 1368px;
+    z-index: 0;
+}
+#Rectangle4copy9 {
+    height: 49px;
+    left: -1px;
+    position: absolute;
+    top: -2px;
+    width: 1368px;
+    z-index: 1;
+}
+
+#Rectangle5 {
+  position: absolute;
+  left: -1px;
+  top: 1779px;
+  height: 527px;
+  z-index: 2;
+  width: 1368px;
+}
+
+#Shape3 {
+  position: absolute;
+  left: 87px;
+  top: 2218px;
+  height: 5px;
+  z-index: 3;
+  width: 1201px;
+}
+
+#INFORMATION {
+  position: absolute;
+  left: 72px;
+  top: 1833px;
+  height: 19px;
+  z-index: 4;
+  width: 185px;
+}
+
+#Thiswebsiteisnoto631 {
+  position: absolute;
+  left: 416px;
+  top: 2138px;
+  height: 49px;
+  z-index: 5;
+  width: 518px;
+  font: 8.33332px CenturyGothic;
+  color: #a39d9d;
+}
+
+#Home {
+  position: absolute;
+  left: 477px;
+  top: 54px;
+  height: 18px;
+  z-index: 6;
+  width: 71px;
+}
+
+#Jobs {
+  position: absolute;
+  left: 613px;
+  top: 54px;
+  height: 19px;
+  z-index: 7;
+  width: 59px;
+}
+
+#Candidates {
+  position: absolute;
+  left: 739px;
+  top: 55px;
+  height: 19px;
+  z-index: 8;
+  width: 139px;
+}
+
+#Employers {
+  position: absolute;
+  left: 948px;
+  top: 55px;
+  height: 23px;
+  z-index: 9;
+  width: 129px;
+}
+
+#SignUporLogin {
+  position: absolute;
+  left: 1143px;
+  top: 55px;
+  height: 19px;
+  z-index: 10;
+  width: 179px;
+}
+
+#HOMEABOUTUSJOBSCA133 {
+  position: absolute;
+  left: 72px;
+  top: 1881px;
+  height: 284px;
+  z-index: 11;
+  width: 224px;
+}
+
+#SERVICES {
+  position: absolute;
+  left: 392px;
+  top: 1833px;
+  height: 19px;
+  z-index: 12;
+  width: 129px;
+}
+
+#POSTAJOBPOSTARESU829 {
+  position: absolute;
+  left: 394px;
+  top: 1881px;
+  height: 148px;
+  z-index: 13;
+  width: 169px;
+}
+
+#MYACCOUNT {
+  position: absolute;
+  left: 775px;
+  top: 1833px;
+  height: 19px;
+  z-index: 14;
+  width: 179px;
+}
+
+#SIGNINMYALERTSVIE202 {
+  position: absolute;
+  left: 775px;
+  top: 1881px;
+  height: 148px;
+  z-index: 15;
+  width: 147px;
+}
+
+#FOLLOWUS {
+  position: absolute;
+  left: 1088px;
+  top: 1833px;
+  height: 19px;
+  z-index: 16;
+  width: 157px;
+}
+
+#TWITTERFACEBOOKRSS {
+  position: absolute;
+  left: 1126px;
+  top: 1880px;
+  height: 96px;
+  z-index: 17;
+  width: 100px;
+}
+
+#Layer17 {
+  position: absolute;
+  left: 1092px;
+  top: 1916px;
+  height: 24px;
+  z-index: 18;
+  width: 24px;
+}
+
+#Layer18 {
+  position: absolute;
+  left: 1093px;
+  top: 1876px;
+  height: 20px;
+  z-index: 19;
+  width: 24px;
+}
+
+#Layer19 {
+  position: absolute;
+  left: 1093px;
+  top: 1958px;
+  height: 24px;
+  z-index: 20;
+  width: 24px;
+}
+
+#Shape4 {
+  position: absolute;
+  left: 472px;
+  top: 80px;
+  height: 6px;
+  z-index: 21;
+  width: 80px;
+}
+
+#Rectangle8 {
+  position: absolute;
+  left: 36px;
+  top: 182px;
+  height: 1472px;
+  z-index: 22;
+  width: 297px;
+}
+
+#Rectangle8copy {
+  position: absolute;
+  left: 344px;
+  top: 268px;
+  height: 1472px;
+  z-index: 23;
+  width: 779px;
+}
+
+#Shape5 {
+  position: absolute;
+  left: 353px;
+  top: 352px;
+  height: 4px;
+  z-index: 24;
+  width: 759px;
+}
+
+#Shape5copy6 {
+  position: absolute;
+  left: 51px;
+  top: 239px;
+  height: 5px;
+  z-index: 25;
+  width: 268px;
+}
+
+#Shape5copy10 {
+  position: absolute;
+  left: 51px;
+  top: 319px;
+  height: 5px;
+  z-index: 26;
+  width: 268px;
+}
+
+#Shape5copy11 {
+  position: absolute;
+  left: 51px;
+  top: 572px;
+  height: 5px;
+  z-index: 27;
+  width: 268px;
+}
+
+#Shape5copy12 {
+  position: absolute;
+  left: 51px;
+  top: 714px;
+  height: 5px;
+  z-index: 28;
+  width: 268px;
+}
+
+#Shape5copy13 {
+  position: absolute;
+  left: 51px;
+  top: 807px;
+  height: 5px;
+  z-index: 29;
+  width: 268px;
+}
+
+#Shape5copy14 {
+  position: absolute;
+  left: 51px;
+  top: 890px;
+  height: 5px;
+  z-index: 30;
+  width: 268px;
+}
+
+#Shape5copy15 {
+  position: absolute;
+  left: 51px;
+  top: 1035px;
+  height: 5px;
+  z-index: 31;
+  width: 268px;
+}
+
+#Shape5copy {
+  position: absolute;
+  left: 358px;
+  top: 539px;
+  height: 4px;
+  z-index: 32;
+  width: 750px;
+}
+
+#Rectangle10 {
+  position: absolute;
+  left: 369px;
+  top: 379px;
+  height: 73px;
+  z-index: 33;
+  width: 78px;
+}
+
+#Layer35 {
+  position: absolute;
+  left: 387px;
+  top: 406px;
+  height: 17px;
+  z-index: 34;
+  width: 43px;
+}
+
+#DesignTechnologist {
+  position: absolute;
+  left: 463px;
+  top: 382px;
+  height: 21px;
+  z-index: 35;
+  width: 230px;
+}
+
+#CocaCola {
+  position: absolute;
+  left: 463px;
+  top: 413px;
+  height: 14px;
+  z-index: 36;
+  width: 94px;
+}
+
+#Layer40 {
+  position: absolute;
+  left: 762px;
+  top: 378px;
+  height: 30px;
+  z-index: 37;
+  width: 19px;
+}
+
+#SunsetDistrict {
+  position: absolute;
+  left: 791px;
+  top: 386px;
+  height: 13px;
+  z-index: 38;
+  width: 122px;
+}
+
+#RoundedRectangle7 {
+  position: absolute;
+  left: 977px;
+  top: 375px;
+  height: 36px;
+  z-index: 39;
+  width: 125px;
+}
+
+#PARTTIME {
+  position: absolute;
+  left: 994px;
+  top: 387px;
+  height: 12px;
+  z-index: 40;
+  width: 91px;
+}
+
+#Layer7copy {
+  position: absolute;
+  left: 17px;
+  top: 8px;
+  height: 103px;
+  z-index: 41;
+  width: 110px;
+}
+#MUG {
+    height: 49px;
+    left: 28px;
+    position: absolute;
+    z-index: 42;
+}
+
+#Rectangle16 {
+  position: absolute;
+  left: -3px;
+  top: 47px;
+  height: 101px;
+  z-index: 43;
+  width: 1368px;
+}
+
+#header_top_drop1 {
+  position: absolute;
+  left: 23px;
+  top: 148px;
+  height: 56px;
+  z-index: 44;
+  width: 409px;
+}
+
+#header_top_drop2 {
+  position: absolute;
+  left: 468px;
+  top: 148px;
+  height: 56px;
+  z-index: 45;
+  width: 325px;
+}
+.btns_contnr {
+    display: inline-block;
+}
+
+#header_top_drop3 {
+  background: url("../../resources/images/images2/search_search.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+  border: medium none;
+  position: absolute;
+  left: 833px;
+  top: 147px;
+  height: 56px;
+  z-index: 46;
+  width: 170px;
+}
+
+#RoundedRectangle6211 {
+  position: absolute;
+  left: 129px;
+  top: 940px;
+  height: 40px;
+  z-index: 47;
+  width: 127px;
+}
+
+#AllJobs {
+  position: absolute;
+  left: 41px;
+  top: 166px;
+  height: 20px;
+  z-index: 48;
+  width: 99px;
+}
+
+#AnyLocation {
+  position: absolute;
+  left: 484px;
+  top: 166px;
+  height: 23px;
+  z-index: 49;
+  width: 166px;
+}
+
+#Polygon1 {
+  position: absolute;
+  left: 394px;
+  top: 169px;
+  height: 16px;
+  z-index: 50;
+  width: 18px;
+}
+
+#Polygon1copy {
+  position: absolute;
+  left: 758px;
+  top: 169px;
+  height: 16px;
+  z-index: 51;
+  width: 18px;
+}
+
+#Search {
+  position: absolute;
+  left: 893px;
+  top: 165px;
+  height: 20px;
+  z-index: 52;
+  width: 84px;
+}
+
+#Layer22 {
+  position: absolute;
+  left: 853px;
+  top: 160px;
+  height: 34px;
+  z-index: 53;
+  width: 33px;
+}
+
+#header_drp_down4 {
+  position: absolute;
+  left: 1045px;
+  top: 64px;
+  height: 68px;
+  z-index: 54;
+  width: 278px;
+}
+
+#POSTANEWJOB {
+  position: absolute;
+  left: 1080px;
+  top: 167px;
+  height: 16px;
+  z-index: 55;
+  width: 207px;
+}
+
+#RoundedRectangle7905 {
+  position: absolute;
+  left: 82px;
+  top: 1300px;
+  height: 60px;
+  z-index: 56;
+  width: 185px;
+}
+
+#ResetFilters {
+  position: absolute;
+  left: 104px;
+  top: 1320px;
+  height: 17px;
+  z-index: 57;
+  width: 141px;
+}
+
+#SearchResults {
+  position: absolute;
+  left: 370px;
+  top: 304px;
+  height: 22px;
+  z-index: 58;
+  width: 212px;
+}
+
+#Refinements {
+  position: absolute;
+  left: 61px;
+  top: 212px;
+  height: 21px;
+  z-index: 59;
+  width: 180px;
+}
+
+#_10Jobs {
+  position: absolute;
+  left: 1018px;
+  top: 310px;
+  height: 16px;
+  z-index: 60;
+  width: 79px;
+}
+
+#Sortby {
+  position: absolute;
+  left: 58px;
+  top: 265px;
+  height: 18px;
+  z-index: 61;
+  width: 75px;
+}
+
+#Relevance {
+  position: absolute;
+  left: 91px;
+  top: 298px;
+  height: 16px;
+  z-index: 62;
+  width: 105px;
+}
+
+#Ellipse1 {
+  position: absolute;
+  left: 64px;
+  top: 298px;
+  height: 18px;
+  z-index: 63;
+  width: 18px;
+}
+
+#DatePosted {
+  position: absolute;
+  left: 59px;
+  top: 342px;
+  height: 15px;
+  z-index: 64;
+  width: 125px;
+}
+
+#SincelastvisitLas843 {
+  position: absolute;
+  left: 90px;
+  top: 356px;
+  height: 144px;
+  z-index: 65;
+  width: 149px;
+}
+
+#Date {
+  position: absolute;
+  left: 253px;
+  top: 298px;
+  height: 15px;
+  z-index: 66;
+  width: 47px;
+}
+
+#Ellipse1copy {
+  position: absolute;
+  left: 226px;
+  top: 298px;
+  height: 18px;
+  z-index: 67;
+  width: 18px;
+}
+
+#Polygon2 {
+  position: absolute;
+  left: 69px;
+  top: 364px;
+  height: 19px;
+  z-index: 68;
+  width: 16px;
+}
+
+#JobType {
+  position: absolute;
+  left: 57px;
+  top: 594px;
+  height: 18px;
+  z-index: 69;
+  width: 96px;
+}
+
+#AllTypesFreelance507 {
+  position: absolute;
+  left: 89px;
+  top: 613px;
+  height: 141px;
+  z-index: 70;
+  width: 105px;
+}
+
+#Polygon2copy {
+  position: absolute;
+  left: 69px;
+  top: 620px;
+  height: 19px;
+  z-index: 71;
+  width: 16px;
+}
+
+#Locations {
+  position: absolute;
+  left: 59px;
+  top: 826px;
+  height: 15px;
+  z-index: 72;
+  width: 99px;
+}
+
+#Experience {
+  position: absolute;
+  left: 59px;
+  top: 733px;
+  height: 18px;
+  z-index: 73;
+  width: 114px;
+}
+
+#AllLocationsNewYo134 {
+  position: absolute;
+  left: 90px;
+  top: 850px;
+  height: 116px;
+  z-index: 74;
+  width: 146px;
+}
+
+#Polygon2copy2 {
+  position: absolute;
+  left: 69px;
+  top: 1083px;
+  height: 19px;
+  z-index: 75;
+  width: 16px;
+}
+
+#CareerLevel {
+  position: absolute;
+  left: 58px;
+  top: 1055px;
+  height: 16px;
+  z-index: 76;
+  width: 128px;
+}
+
+#AllEntryLevelExpe701 {
+  position: absolute;
+  left: 90px;
+  top: 1070px;
+  height: 141px;
+  z-index: 77;
+  width: 175px;
+}
+
+#Polygon2copy6 {
+  position: absolute;
+  left: 69px;
+  top: 1080px;
+  height: 19px;
+  z-index: 78;
+  width: 16px;
+}
+
+#Polygon2copy3 {
+  position: absolute;
+  left: 232px;
+  top: 1298px;
+  height: 13px;
+  z-index: 79;
+  width: 16px;
+}
+
+#SalaryRange {
+  position: absolute;
+  left: 58px;
+  top: 907px;
+  height: 19px;
+  z-index: 80;
+  width: 136px;
+}
+
+#From {
+  position: absolute;
+  left: 61px;
+  top: 950px;
+  height: 15px;
+  z-index: 81;
+  width: 52px;
+}
+
+#Morethan {
+  position: absolute;
+  left: 61px;
+  top: 770px;
+  height: 16px;
+  z-index: 82;
+  width: 104px;
+}
+
+#_15aabed479674219192 {
+  position: absolute;
+  left: 137px;
+  top: 1295px;
+  height: 18px;
+  z-index: 83;
+  width: 12px;
+}
+
+#RoundedRectangle6966 {
+  position: absolute;
+  left: 177px;
+  top: 760px;
+  height: 40px;
+  z-index: 84;
+  width: 127px;
+}
+
+#Polygon2copy5 {
+  position: absolute;
+  left: 280px;
+  top: 984px;
+  height: 13px;
+  z-index: 85;
+  width: 16px;
+}
+
+#_3years {
+  position: absolute;
+  left: 193px;
+  top: 982px;
+  height: 18px;
+  z-index: 86;
+  width: 67px;
+}
+
+#RoundedRectangle6514 {
+  position: absolute;
+  left: 129px;
+  top: 990px;
+  height: 40px;
+  z-index: 87;
+  width: 127px;
+}
+
+#Polygon2copy4 {
+  position: absolute;
+  left: 232px;
+  top: 1349px;
+  height: 13px;
+  z-index: 88;
+  width: 16px;
+}
+
+#Polygon2copy7 {
+  position: absolute;
+  left: 1071px;
+  top: 1705px;
+  height: 13px;
+  z-index: 89;
+  width: 10px;
+}
+
+#Polygon2copy8 {
+  position: absolute;
+  left: 1042px;
+  top: 1705px;
+  height: 13px;
+  z-index: 90;
+  width: 10px;
+}
+
+#To {
+  position: absolute;
+  left: 59px;
+  top: 1000px;
+  height: 15px;
+  z-index: 91;
+  width: 24px;
+}
+
+#~copy {
+  position: absolute;
+  left: 137px;
+  top: 1346px;
+  height: 18px;
+  z-index: 92;
+  width: 12px;
+}
+
+#OverviewReviewsSa833 {
+  position: absolute;
+  left: 465px;
+  top: 512px;
+  height: 12px;
+  z-index: 93;
+  width: 196px;
+}
+
+#Layer41 {
+  position: absolute;
+  left: 946px;
+  top: 502px;
+  height: 23px;
+  z-index: 94;
+  width: 24px;
+}
+
+#AddtoFavorites {
+  position: absolute;
+  left: 976px;
+  top: 509px;
+  height: 11px;
+  z-index: 95;
+  width: 121px;
+}
+
+#TheCocaColaUniver294 {
+  position: absolute;
+  left: 464px;
+  top: 441px;
+  height: 58px;
+  z-index: 96;
+  width: 637px;
+}
+
+#_2daysago {
+  position: absolute;
+  left: 376px;
+  top: 512px;
+  height: 13px;
+  z-index: 97;
+  width: 69px;
+}
+
+#Shape5copy2 {
+  position: absolute;
+  left: 358px;
+  top: 727px;
+  height: 4px;
+  z-index: 98;
+  width: 750px;
+}
+
+#Rectangle10copy {
+  position: absolute;
+  left: 369px;
+  top: 567px;
+  height: 73px;
+  z-index: 99;
+  width: 78px;
+}
+
+#Layer35copy {
+  position: absolute;
+  left: 387px;
+  top: 594px;
+  height: 17px;
+  z-index: 100;
+  width: 43px;
+}
+
+#DesignTechnologis921 {
+  position: absolute;
+  left: 463px;
+  top: 570px;
+  height: 21px;
+  z-index: 101;
+  width: 230px;
+}
+
+#CocaColacopy {
+  position: absolute;
+  left: 463px;
+  top: 601px;
+  height: 14px;
+  z-index: 102;
+  width: 94px;
+}
+
+#Layer40copy {
+  position: absolute;
+  left: 762px;
+  top: 566px;
+  height: 30px;
+  z-index: 103;
+  width: 19px;
+}
+
+#SunsetDistrictcopy {
+  position: absolute;
+  left: 791px;
+  top: 574px;
+  height: 13px;
+  z-index: 104;
+  width: 122px;
+}
+
+#RoundedRectangle7105 {
+  position: absolute;
+  left: 977px;
+  top: 563px;
+  height: 36px;
+  z-index: 105;
+  width: 125px;
+}
+
+#FULLTIME {
+  position: absolute;
+  left: 994px;
+  top: 575px;
+  height: 12px;
+  z-index: 106;
+  width: 89px;
+}
+
+#OverviewReviewsSa114 {
+  position: absolute;
+  left: 465px;
+  top: 700px;
+  height: 12px;
+  z-index: 107;
+  width: 196px;
+}
+
+#Layer41copy {
+  position: absolute;
+  left: 946px;
+  top: 690px;
+  height: 23px;
+  z-index: 108;
+  width: 24px;
+}
+
+#AddtoFavoritescopy {
+  position: absolute;
+  left: 976px;
+  top: 697px;
+  height: 11px;
+  z-index: 109;
+  width: 121px;
+}
+
+#TheCocaColaUniver497 {
+  position: absolute;
+  left: 464px;
+  top: 629px;
+  height: 58px;
+  z-index: 110;
+  width: 637px;
+}
+
+#_2daysagocopy {
+  position: absolute;
+  left: 376px;
+  top: 700px;
+  height: 13px;
+  z-index: 111;
+  width: 69px;
+}
+
+#Shape5copy3 {
+  position: absolute;
+  left: 358px;
+  top: 917px;
+  height: 4px;
+  z-index: 112;
+  width: 750px;
+}
+
+#Rectangle10copy2 {
+  position: absolute;
+  left: 369px;
+  top: 757px;
+  height: 73px;
+  z-index: 113;
+  width: 78px;
+}
+
+#Layer35copy2 {
+  position: absolute;
+  left: 387px;
+  top: 784px;
+  height: 17px;
+  z-index: 114;
+  width: 43px;
+}
+
+#DesignTechnologis157 {
+  position: absolute;
+  left: 463px;
+  top: 760px;
+  height: 21px;
+  z-index: 115;
+  width: 230px;
+}
+
+#CocaColacopy2 {
+  position: absolute;
+  left: 463px;
+  top: 791px;
+  height: 14px;
+  z-index: 116;
+  width: 94px;
+}
+
+#Layer40copy2 {
+  position: absolute;
+  left: 762px;
+  top: 756px;
+  height: 30px;
+  z-index: 117;
+  width: 19px;
+}
+
+#SunsetDistrictcopy2 {
+  position: absolute;
+  left: 791px;
+  top: 764px;
+  height: 13px;
+  z-index: 118;
+  width: 122px;
+}
+
+#RoundedRectangle7838 {
+  position: absolute;
+  left: 977px;
+  top: 753px;
+  height: 36px;
+  z-index: 119;
+  width: 125px;
+}
+
+#PARTTIMEcopy {
+  position: absolute;
+  left: 994px;
+  top: 765px;
+  height: 12px;
+  z-index: 120;
+  width: 91px;
+}
+
+#OverviewReviewsSa201 {
+  position: absolute;
+  left: 465px;
+  top: 890px;
+  height: 12px;
+  z-index: 121;
+  width: 196px;
+}
+
+#Layer41copy2 {
+  position: absolute;
+  left: 946px;
+  top: 880px;
+  height: 23px;
+  z-index: 122;
+  width: 24px;
+}
+
+#AddtoFavoritescopy2 {
+  position: absolute;
+  left: 976px;
+  top: 887px;
+  height: 11px;
+  z-index: 123;
+  width: 121px;
+}
+
+#TheCocaColaUniver236 {
+  position: absolute;
+  left: 464px;
+  top: 819px;
+  height: 58px;
+  z-index: 124;
+  width: 637px;
+}
+
+#_2daysagocopy2 {
+  position: absolute;
+  left: 376px;
+  top: 890px;
+  height: 13px;
+  z-index: 125;
+  width: 69px;
+}
+
+#Shape5copy4 {
+  position: absolute;
+  left: 358px;
+  top: 1105px;
+  height: 4px;
+  z-index: 126;
+  width: 750px;
+}
+
+#Rectangle10copy3 {
+  position: absolute;
+  left: 369px;
+  top: 945px;
+  height: 73px;
+  z-index: 127;
+  width: 78px;
+}
+
+#Layer35copy3 {
+  position: absolute;
+  left: 387px;
+  top: 972px;
+  height: 17px;
+  z-index: 128;
+  width: 43px;
+}
+
+#DesignTechnologis788 {
+  position: absolute;
+  left: 463px;
+  top: 948px;
+  height: 21px;
+  z-index: 129;
+  width: 230px;
+}
+
+#CocaColacopy3 {
+  position: absolute;
+  left: 463px;
+  top: 979px;
+  height: 14px;
+  z-index: 130;
+  width: 94px;
+}
+
+#Layer40copy3 {
+  position: absolute;
+  left: 762px;
+  top: 944px;
+  height: 30px;
+  z-index: 131;
+  width: 19px;
+}
+
+#SunsetDistrictcopy3 {
+  position: absolute;
+  left: 791px;
+  top: 952px;
+  height: 13px;
+  z-index: 132;
+  width: 122px;
+}
+
+#RoundedRectangle7198 {
+  position: absolute;
+  left: 977px;
+  top: 941px;
+  height: 36px;
+  z-index: 133;
+  width: 125px;
+}
+
+#FULLTIMEcopy {
+  position: absolute;
+  left: 994px;
+  top: 953px;
+  height: 12px;
+  z-index: 134;
+  width: 89px;
+}
+
+#OverviewReviewsSa137 {
+  position: absolute;
+  left: 465px;
+  top: 1078px;
+  height: 12px;
+  z-index: 135;
+  width: 196px;
+}
+
+#Layer41copy3 {
+  position: absolute;
+  left: 946px;
+  top: 1068px;
+  height: 23px;
+  z-index: 136;
+  width: 24px;
+}
+
+#AddtoFavoritescopy3 {
+  position: absolute;
+  left: 976px;
+  top: 1075px;
+  height: 11px;
+  z-index: 137;
+  width: 121px;
+}
+
+#TheCocaColaUniver140 {
+  position: absolute;
+  left: 464px;
+  top: 1007px;
+  height: 58px;
+  z-index: 138;
+  width: 637px;
+}
+
+#_2daysagocopy3 {
+  position: absolute;
+  left: 376px;
+  top: 1078px;
+  height: 13px;
+  z-index: 139;
+  width: 69px;
+}
+
+#Pages1234 {
+  position: absolute;
+  left: 887px;
+  top: 1212px;
+  height: 16px;
+  z-index: 140;
+  width: 135px;
+}
+
+#Rectangle17 {
+  position: absolute;
+  left: 1035px;
+  top: 1700px;
+  height: 22px;
+  z-index: 141;
+  width: 25px;
+}
+
+#Rectangle17copy {
+  position: absolute;
+  left: 1063px;
+  top: 1700px;
+  height: 22px;
+  z-index: 142;
+  width: 25px;
+}
+
+#Rectangle15copy {
+  position: absolute;
+  left: 1132px;
+  top: 182px;
+  height: 936px;
+  z-index: 143;
+  width: 198px;
+}
+
+#AD {
+  position: absolute;
+  left: 1153px;
+  top: 660px;
+  height: 75px;
+  z-index: 144;
+  width: 155px;
+}
+.search_results {
+    left: 361px;
+    position: absolute;
+    top: 188px;
+    z-index: 36;
+    
+}
+/*.srch_type {
+    float: left;
+}*/
+
+.srch_location {
+    color: #535356;
+    float: left;
+    font-family: arial;
+    font-weight: bold;
+    width: 173px;
+}
+.src_loc_icon {
+    float: left;
+}
+.ttl_comp {
+    float: left;
+    margin-left: 15px;
+    width: 322px;
+}
+.srch_logo {
+    float: left;
+    width: 73px;
+    height: 73px;
+}
+.srch_logo > img {
+    height: 73px;
+    width: 73px;
+}
+.result_container {
+    padding-bottom: 14px;
+    padding-top: 14px;
+    width: 749px;
+}
+.srch_top {
+    border-bottom: 2px solid;
+    min-height: 32px;
+    padding-bottom: 17px;
+    width: 749px;
+}
+.srch_descrip {
+    float: left;
+    font-family: arial;
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: 15px;
+    text-align: left;
+    width: 661px;
+}
+.srch_time {
+    color: #c5cac9;
+    float: left;
+    font-family: arial;
+    font-size: 12px;
+    font-weight: bold;
+    width: 93px;
+}
+.attrs {
+    float: left;
+    width: 236px;
+    padding-bottom: 10px;
+}
+.addfav_icn {
+    float: left;
+    margin-left: 253px;
+    width: 32px;
+}
+.srch_ttl {
+    color: #69696a;
+    float: left;
+    font-family: arial;
+    font-size: 25px;
+    font-weight: bold;
+    width: 225px;
+    padding-left: 8px;
+}
+.srch_count {
+    color: #2980b9;
+    float: left;
+    font-family: arial;
+    font-size: 22px;
+    margin-left: 418px;
+}
+.result_ttl {
+    color: #2980b9;
+    font-family: arial;
+    font-size: 20px;
+    font-weight: bold;
+}
+.result_ttl > a {
+    color: #2980b9;
+}
+.compny {
+    color: #828186;
+    font-family: arial;
+    font-size: 17px;
+    font-weight: bold;
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+.lowr_cntnr {
+    clear: both;
+    padding-top: 8px;
+}
+.add_fav {
+    color: #828186;
+    font-family: arial;
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 3px;
+}
+.attr {
+    border-right: 1px solid;
+    color: #2980b9;
+    font-family: arial;
+    padding-left: 7px;
+    padding-right: 7px;
+    text-decoration: none;
+}
+.last {
+    border: medium none;
+}
+.clearfix{
+    clear: both;
+}
+.seprator{
+    border-bottom: 1px solid
+}
+.separator {
+    border-bottom: 1px solid #69696a;
+}
+.search_drop{
+     padding:11px;
+    margin: 0;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:12px;
+    background: #f8f8f8;
+    color:#474848;
+    border:none;
+    outline:none;
+    display: inline-block;
+    cursor:pointer;
+    height: 57px;
+    width: 410px;
+    font-size: 23px;
+    background-color: #E1DDDD;
+}
+.search_drop2 {
+    background-color: #e1dddd;
+    border: medium none;
+    border-radius: 12px;
+    color: #474848;
+    float: left;
+    font-size: 23px;
+    height: 28px;
+    padding: 11px;
+    margin-left: 20px;
+    width: 326px;
+}
+#RoundedRectangle6cop_0 {
+    background: url("../../resources/images/images/serach_btn.png") no-repeat scroll 0 0 / 182px 45px rgba(0, 0, 0, 0);
+    border: 2px solid;
+    border-radius: 10px;
+    height: 49px;
+    margin-left: 26px;
+    width: 170px;
+}
+.footer {
+    color: #fff;
+    left: 72px;
+    position: absolute;
+    top: 1833px;
+    z-index: 5;
+    border-bottom: 3px solid #0c9375;
+}
+.footer_container {
+    float: left;
+    margin-right: 110px;
+    font-family: arial;
+}
+.spacer {
+    margin-left: 110px;
+}
+.footer_lnks {
+    padding: 0;
+    color: #757375;
+    font-family: arial;
+}
+.footer_ttl{
+    color: #DBD7D7;
+    font-size: 28px;
+    font-family: arial;
+}
+.footer_lnks > li{
+    list-style: none;
+    clear: both;
+    font-family: arial;
+}
+.social_icon{
+    float: left;
+    margin-right: 10px;
+}
+.footer_lnks > li > a{
+    text-decoration: none;
+    color: #757375;
+}
+.footer_lnks > li > a:hover{
+    color: #0c9375;
+    text-decoration: none;
+}
+.prop_txt {
+    clear: both;
+    color: #757375;
+    font-size: 11px;
+    margin: 0 auto 37px;
+    text-align: center;
+    width: 782px;
+    font-family: arial;
+}
+#AllTypesFreelance507 > ul {
+    margin-top: -5px;
+    padding: 0;
+}
+#AllTypesFreelance507 li {
+    color: #69696a;
+    font-family: arial;
+    font-size: 21px;
+    list-style: outside none none;
+    cursor: pointer;
+}
+#AllTypesFreelance507 li:hover {
+    color: #2980B9;
+}
+.sml_drop {
+    background: none repeat scroll 0 0 #e1dddd;
+    border: medium none;
+    border-radius: 10px;
+    color: #2980b9;
+    font-family: arial;
+    font-size: 20px;
+    height: 40px;
+    padding-left: 12px;
+    width: 127px;
+}
+#SincelastvisitLas843 > ul {
+    list-style: outside none none;
+    margin-top: -3px;
+    padding: 0;
+}
+#SincelastvisitLas843 li {
+    color: #69696a;
+    font-family: arial;
+    font-size: 21px;
+}
+#SincelastvisitLas843 li:hover {
+    color: #2980B9;
+}
+#AllLocationsNewYo134 > ul {
+    list-style: outside none none;
+    margin-top: -3px;
+    padding: 0;
+}
+#AllLocationsNewYo134 li {
+    color: #69696a;
+    font-family: arial;
+    font-size: 21px;
+}
+#AllLocationsNewYo134 li:hover {
+    color: #2980B9;
+}
+#AllEntryLevelExpe701 > ul {
+    list-style: outside none none;
+    margin-top: -3px;
+    padding: 0;
+}
+#AllEntryLevelExpe701 li {
+    color: #69696a;
+    font-family: arial;
+    font-size: 21px;
+}
+#AllEntryLevelExpe701 li:hover {
+    color: #2980B9;
+}
+.nav_menu {
+    color: #fff;
+    left: 469px;
+    position: absolute;
+    top: 10px;
+    z-index: 5;
+}
+.nav_menu > a {
+    color: #fff;
+    font-family: arial;
+    font-size: 18px;
+    margin-right: 40px;
+    text-decoration: none;
+}
+.join.hideTab.margn {
+    border-bottom: 1px solid;
+    margin-right: 9px;
+}
+.signin.last_nav {
+    border-bottom: 1px solid;
+    margin-left: 13px;
+}
+.search_box {
+    float: left;
+    margin-left: 10px;
+    width: 770px;
+}
+.inner_searchbox {
+    background: url("../../resources/images/images/search_icon.png") no-repeat scroll 635px 6px #e1dddd;
+    border: medium none;
+    border-radius: 10px;
+    box-shadow: none;
+    float: left;
+    font-family: arial;
+    font-size: 24px;
+    height: 26px;
+    padding: 10px;
+    width: 394px;
+}
+.notifications_box {
+    float: left;
+    margin-left: 24px;
+}
+.notifications_box > img {
+    width: 66px;
+}
+.pad{
+    padding: 35px;
+}
+.search_box {
+    float: left;
+    margin-left: 10px;
+    width: 770px;
+}
+.notifications_box {
+    position: absolute;
+    top: 64px;
+    z-index: 44;
+    left: 730px;
+    background-color: #f3f3f3;
+    padding: 10px;
+}
+.notifications_box > img {
+    width: 66px;
+}
+.pad{
+    padding: 35px;
+}
+.top_search_box {
+    left: 23px;
+    margin-left: 10px;
+    position: absolute;
+    top: 73px;
+    width: 1000px;
+    z-index: 44;
+}
+
+.autocomplete-suggestions { border: 1px solid #999; background: #fff; cursor: default; overflow: auto; }
+.autocomplete-suggestion { padding: 10px 5px; font-size: 1.2em; white-space: nowrap; overflow: hidden; }
+.autocomplete-selected { background: #f0f0f0; }
+.autocomplete-suggestions strong { font-weight: normal; color: #3399ff; } 

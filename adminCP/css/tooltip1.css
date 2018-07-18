@@ -1,0 +1,9 @@
+.tip{
+font:10px/12px Arial,Helvetica,sans-serif; width:300px;
+padding:0px; position:absolute; z-index:100; visibility:hidden; color:#333333;
+top:0px; left:190px;
+}
+
+#t2{
+	width:300px;
+}

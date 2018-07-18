@@ -1,0 +1,22 @@
+.tip{
+font:10px/12px Arial,Helvetica,sans-serif; width:100%;
+padding:0px; position:absolute; z-index:100; visibility:hidden; color:#333333;
+top:0px; left:190px;
+border:1px solid #444444; background-color:#FFFFFF;
+overflow:auto;
+padding-top:8px;
+}
+
+#t2{
+	width:220px;
+}
+a.tabs{
+	background-color:#97DDF1;
+	font-weight:bold;
+	text-decoration:none;
+}
+a:hover.tabs{
+	background-color:#97DDF1;
+	font-weight:bold;
+	text-decoration:underline;
+}
